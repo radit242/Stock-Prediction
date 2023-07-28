@@ -9,7 +9,6 @@ keras
 tensorflow
 pickleshare
 datetime
-prophet.plot
 sklearn.preprocessing
 matplolib.pyplot
 prophet.plot
