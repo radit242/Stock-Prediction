@@ -9,4 +9,4 @@ tensorflow
 pickleshare
 datetime
 scikit-learn
-pickle
+pickle5
