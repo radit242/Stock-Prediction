@@ -9,5 +9,4 @@ tensorflow
 pickleshare
 datetime
 scikit-learn
-matplolib.pyplot
 pickle
