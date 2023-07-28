@@ -1,5 +1,9 @@
 **Stock Prediction** 
 
+website - https://stock-prediction-8oe4qsgl46irlsryyat88f.streamlit.app/
+
+
+
 
 Stocks are financial instruments that represent ownership in a company. When individuals or institutions buy shares of a company's stock, they become shareholders and have a claim on the company's assets and earnings. Stocks are traded on stock exchanges, and their prices are influenced by various factors such as company performance, market conditions, and economic trends.
 
