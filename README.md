@@ -1,6 +1,6 @@
 **Stock Prediction** 
 
-website - https://stock-prediction-8oe4qsgl46irlsryyat88f.streamlit.app/
+website - https://stock-prediction-ajay2rpastuvkpmtczu7ny.streamlit.app/
 
 
 
